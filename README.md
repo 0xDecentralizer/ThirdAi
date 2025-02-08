@@ -19,7 +19,7 @@ To get started with ThirdAI, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/ThirdAI.git
+   git clone https://github.com/0xdecentralizer/ThirdAI.git
 2. Install dependencies:
    ```sh
    cd ThirdAI
